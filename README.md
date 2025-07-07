@@ -1,2 +1,2 @@
 # First_Repo
-First, wohoo
+First Repository on GitHub, wohoo
